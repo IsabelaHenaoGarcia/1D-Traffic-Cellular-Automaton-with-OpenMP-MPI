@@ -1,0 +1,1 @@
+[omp T=1 sched=static chunk=0] N=5000000 steps=200 density=0.500 v_asymp=0.95809 time=1.0355s (965.67 MCUPS) cars=2497689->2497689

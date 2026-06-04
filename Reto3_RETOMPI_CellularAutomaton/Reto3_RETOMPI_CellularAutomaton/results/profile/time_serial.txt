@@ -1,0 +1,24 @@
+[serial] N=5000000 steps=200 density=0.500 -> actual=0.4995 ncars0=2497689 ncars1=2497689 v_asymp=0.95809 time=0.6241s (1602.19 MCUPS)
+	Command being timed: "./bin/traffic_serial -n 5000000 -s 200 -d 0.5 -r 7 -v"
+	User time (seconds): 0.68
+	System time (seconds): 0.01
+	Percent of CPU this job got: 102%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.68
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 40448
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9841
+	Voluntary context switches: 0
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,1 @@
+[serial] N=5000000 steps=200 density=0.500 -> actual=0.4995 ncars0=2497689 ncars1=2497689 v_asymp=0.95809 time=1.0601s (943.33 MCUPS)

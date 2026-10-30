@@ -1,4 +1,4 @@
-# Reto 03: Cellular Automaton Traffic Simulation (Nagel-Schreckenberg Model)
+# Cellular Automaton Traffic Simulation (Nagel-Schreckenberg Model)
 
 This repository contains the complete implementation, performance profiling, and comparative scaling analysis for a 1D Traffic Flow Cellular Automaton based on the **Nagel-Schreckenberg (NaSch) Model**. The project explores parallelization techniques using **OpenMP** (shared memory) and **MPI** (distributed memory), evaluating performance metrics such as execution time, speedup, efficiency, throughput (updates per second), and antipattern bottlenecks across varying system sizes and thread/process counts.
 
